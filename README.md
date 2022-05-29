@@ -12,7 +12,7 @@ A command prompt application to view, add, modify and delete employees, roles, a
 
 ## Video Preview
 
-![Employee Tracker](./assets/file_1.mp4)
+![Employee Tracker](./assets/file_1.gif)
 
 ## Website URL
 
