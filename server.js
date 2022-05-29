@@ -328,7 +328,7 @@ function deleterole ()
         .then(function (res)
         {
             const deleteRole = res.deleteRole
-            const query = `DELETE from role where id=${deleteRole}`
+            const query = `DELETE FROM role where id=${deleteRole}`
             db.query(query, function (err, res)
             {
                 if (err)
